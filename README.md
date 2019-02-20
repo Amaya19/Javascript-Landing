@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Javascript Landig</h1>
+  <h1>Javascript Landing</h1>
   <p>Voici tout les tutos de Javascript Landing.</p>
 </div>
 <br>
