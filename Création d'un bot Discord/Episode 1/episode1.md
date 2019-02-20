@@ -31,6 +31,7 @@ Rendez-vous sur le site de node, puis téléchargez le.
 ### Installer les modules :
 
  Mac :
+ 
 Ouvrez le terminal, puis faites `cd chemin_du_dossier` puis faites `enter`, et faites :
 
 ```
