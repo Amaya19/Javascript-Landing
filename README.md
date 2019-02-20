@@ -1,6 +1,4 @@
--Javascript Landing
-Les tutos du serveur Javascript Landing seront tous ici !
-
-**Ils sont classés par séries, voici le sommaire :**
-
-(Créer un bot Discord - propulsé par NodeJS)[]
+<div align="center">
+  <h1>Javascript Landig</h1>
+  <p>Voici tout les tutos de Javascript Landing.</p>
+</div>
