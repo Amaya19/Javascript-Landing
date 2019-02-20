@@ -5,3 +5,10 @@
   </p>
 </div>
 <br>
+
+<p>
+ <br>
+  
+  Cliquez sur l'épisode que vous souhaitez pour y accéder. Puis cliquez sur le fichier `episode.md` pour débuter l'épisode. Je vous attends !
+  
+  </p>
