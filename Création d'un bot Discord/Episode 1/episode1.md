@@ -17,34 +17,39 @@ Dans votre ordi, vous allez créer un dossier que vous allez nommer avec le nom 
 
 Il faudra installer `Node.js`pour ue votre bot puisse marcher. Voici les démarches :
 
-#### Sur Linux (Distro en debian)
+Sur Linux (Distro en debian)
 
-```sudo apt install nodejs
+```
+sudo apt install nodejs
 sudo apt install npm
 ```
 
-#### Sur Mac & Windows :
+Sur Mac & Windows :
 
 Rendez-vous sur le site de node, puis téléchargez le.
 
 ### Installer les modules :
 
-#### Mac :
-Ouvrez le terminal, puis faites `cd chemin_du_dossier` puis faites `enter`, et faites
+ Mac :
+Ouvrez le terminal, puis faites `cd chemin_du_dossier` puis faites `enter`, et faites :
 
-```npm i -s discord.js
+```
+npm i -s discord.js
 ```
 
-#### Linux :
+Linux :
 
 Allez dans le dossier de votre bot, et faites clique droit, puis cliquez sur `ouvrir dans un terminal`, et faites :
 
-```npm i -s discord.js
+```
+npm i -s discord.js
 ```
 
-#### Windows :
+Windows :
 
 Allez dans le dossier de votre bot, faite `shift+clique droit` et cliquez sur `ouvrir dans powershell`, et faites :
 
-```npm i -s discord.js
 ```
+npm i -s discord.js
+```
+</p>
